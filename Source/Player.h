@@ -31,7 +31,6 @@ public:
 
 
     //ƒWƒƒƒ“ƒv“ü—Íˆ—
-    //void InputJump();
     bool InputJump();
 
 
