@@ -1,6 +1,6 @@
 #include"EnemyManager.h"
 #include"Collision.h"
-//a
+//i
 void EnemyManager::Update(float elapsedTime)
 {
     for (Enemy* enemy : enemies)
